@@ -1,0 +1,43 @@
+html{
+    background: rgb(150, 183, 239);
+}
+
+
+#benstokes{
+    border: 2px dashed black;
+}
+#whenthewhen{
+    size: 100px;
+    color: rgb(0, 0, 0);
+    position: relative;
+    border: 2px solid black;
+}
+.size{
+    border: 2px solid black;
+}
+.yea{
+    border: 2px solid black;
+}
+#ee{
+    border: 2px solid black;
+}
+#table{
+    
+    padding: 10px;
+    border: 2px solid black;
+}
+#link{
+    border: 2px solid black;
+}
+#pic{
+    padding: 5px;
+    border: 2px solid black;
+}
+#video{
+    padding: 5px;
+    border: 2px solid black;
+}
+#form{
+    padding: 5px;
+    border: 2px solid black;
+}
